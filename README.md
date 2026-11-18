@@ -1,5 +1,9 @@
 # tiny-chess-01: a chess engine in 4 KB of Python
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/isyaweb-a11y/tiny-chess-01-engine/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/isyaweb-a11y/tiny-chess-01-engine/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 An original alpha-beta chess engine for make.fun's tiny-chess-01 bounty,
 packed into a 4,073-byte `main.py` (the readable source is compressed
 with the kit's `makefun compress`; the entrypoint unpacks and runs it).
